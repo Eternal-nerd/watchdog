@@ -1,0 +1,4 @@
+/home/skinny/Projects/watchdog/build/CMakeFiles/watchdog.dir
+/home/skinny/Projects/watchdog/build/CMakeFiles/run.dir
+/home/skinny/Projects/watchdog/build/CMakeFiles/edit_cache.dir
+/home/skinny/Projects/watchdog/build/CMakeFiles/rebuild_cache.dir

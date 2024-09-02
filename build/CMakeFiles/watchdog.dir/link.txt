@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++20 CMakeFiles/watchdog.dir/src/main.cpp.o -o /home/skinny/Projects/watchdog/bin/watchdog 
